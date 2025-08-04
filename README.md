@@ -104,12 +104,4 @@ Die Anwendung ist nun unter [http://localhost:5173](http://localhost:5173) (oder
 
 ---
 
-## 📄 Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz.
-
----
-
-## 👤 Autor
-
-- Farah Obeidat, Hochschule Mainz, Sommersemester 2025
