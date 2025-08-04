@@ -1,0 +1,32 @@
+{
+  "name": "football-locations-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@hookform/resolvers": "^5.1.1",
+    "leaflet": "^1.9.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-hook-form": "^7.58.1",
+    "react-leaflet": "^4.2.1",
+    "react-router-dom": "^6.30.1",
+    "zod": "^3.25.67"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.3",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.21",
+    "daisyui": "^5.0.43",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^4.9.5",
+    "vite": "^4.5.14"
+  }
+}
